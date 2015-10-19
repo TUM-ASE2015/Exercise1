@@ -18,6 +18,7 @@ public class HelloWorld {
 		user =  cin.next();
 		obj.setUser(user);
 		obj.greetUser();
+		System.out.println("test");
 	}
 	
 }
