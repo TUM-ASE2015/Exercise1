@@ -1,10 +1,7 @@
 
 public class HelloUser {
 	private String userName;
-
-	public HelloUser() {
-		userName = "aurel";
-	}
+ 
 
 	public void setUser(String user) {
 		userName = user;
